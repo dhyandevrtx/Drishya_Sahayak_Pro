@@ -1,0 +1,30 @@
+# Drishya Sahayak Pro - Python Dependencies
+
+# -----------------------------------------------------------------
+# IMPORTANT: PyTorch should be installed separately first.
+# Visit https://pytorch.org/get-started/locally/ and get the
+# command for your specific system (e.g., for CPU or GPU).
+# Example command for CPU:
+# pip install torch torchvision torchaudio
+# -----------------------------------------------------------------
+
+# Core AI and Computer Vision
+ultralytics
+opencv-python
+
+# Graphical User Interface
+PyQt5
+
+# Voice Recognition and Text-to-Speech
+SpeechRecognition
+PyAudio
+pyttsx3
+gTTS
+playsound==1.2.2
+
+# Location Services and Web Requests
+geopy
+requests
+
+# Configuration Management
+python-dotenv
